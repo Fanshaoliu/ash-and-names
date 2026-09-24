@@ -8,3 +8,5 @@
 
 @media(max-width:600px){.dpad{grid-template-columns:44px 44px 44px;grid-template-rows:40px 40px 40px}.touchbar p{max-width:70px}}
 @media(max-width:360px){.touchbar>p{display:none}.title-copy{padding:28px 20px}.title-copy h1{font-size:42px}.genre{font-size:10px;gap:6px}}
+/* Keep the title actions above the footer at every viewport and saved-game state. */
+#titleScreen{display:flex;flex-direction:column;height:auto}.title-copy{padding-bottom:30px}.title-bottom{position:relative;margin-top:auto;flex-shrink:0}
