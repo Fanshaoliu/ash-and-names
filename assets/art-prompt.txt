@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: Original widescreen title background and battle environment for a 16-bit Super Famicom JRPG game.
+Primary request: A gorgeous authentic pixel-art landscape at dusk. A tiny blond ninja dressed in orange and two companions, all seen from behind in small game-sprite proportions, stand on a grassy hill in the lower right overlooking a Japanese fantasy village.
+Scene/backdrop: Richly detailed traditional wooden village with blue tiled roofs and scattered glowing amber windows amid dense dark cedar woods; stepped waterfalls and a winding stream through the valley; layered distant violet mountains. An enormous broken orange sun like a shattered celestial ring hangs in the upper right sky, with a few visible separated arc fragments.
+Style/medium: Meticulously crafted genuine 16-bit SFC pixel art, clearly visible square pixel clusters, restrained old-console palette, hard pixel edges, controlled dithering, richly layered parallax-like environment. Game-native environment art, not a painting.
+Composition/framing: Widescreen 1536x864 composition (or 1536x1024 safe to crop to 16:9). Keep all three characters tiny and clustered on the grassy right foreground hill. Reserve the upper left and left middle as low-detail dark indigo sky and atmospheric mountain silhouettes for a large title overlay. Village and waterfalls primarily across center and lower half. Keep the broken sun to the right of the title space. Strong foreground, middle distance, and background separation.
+Lighting/mood: Quiet, mysterious, adventurous dusk, luminous warm windows and broken orange sun against cool forest shadows.
+Color palette: Deep indigo, midnight blue, dark teal and turquoise, lavender distant ridges, amber and burnt orange accents.
+Constraints: Exactly one landscape image. No text, no lettering, no logos, no watermark, no interface, no borders. Do not draw the title. Crisp square pixels without antialiasing.
+Avoid: Smooth vector art, 3D render, realistic painting, soft blur, airbrushing, photographic texture, huge foreground characters, close-up portraits.

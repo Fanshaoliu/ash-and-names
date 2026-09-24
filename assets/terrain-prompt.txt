@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: Production-ready RPG terrain texture atlas. EXACTLY 4 columns by 4 rows of equal square cells, edge-to-edge tile textures, 2048 x 2048 image preferred; each cell 512 x 512. No margins, no gutters, no grid strokes.
+Primary request: 16 highly detailed seamless topdown ground textures for a refined 16-bit Super Famicom JRPG, reminiscent of the intricate terrain craftsmanship of Dragon Quest VI. Genuine sophisticated pixel art with fine square pixel clusters and rich subtle shading, not coarse 8-bit blocks and not flat color rectangles. Treat each 512-pixel cell as an upscaled ~64x64 native pixel texture with many small legible material details.
+Strict row-major layout:
+Row 1, left to right: dark emerald forest grass; lush sunlit meadow grass; warm earth dirt path with tiny pebbles; small uneven pale limestone cobblestones.
+Row 2: shallow clear teal water with delicate ripple highlights; deep dark blue water with restrained surface ripples; warm wooden plank bridge flooring viewed overhead; old gray castle flagstones with nuanced masonry.
+Row 3: white powder snow with fine blue shaded clumps; pale blue translucent ice with fine cracks; violet mossy grass; indigo enchanted stone with subtle lilac mineral veins.
+Row 4: fine golden sand; green meadow with scattered tiny flowers; weathered reddish brick paving; dark obsidian magical floor with subtle teal runic mineral glints.
+Each tile is an entire surface texture that fills its own square completely. Texture scale consistent between cells. All 16 cells independently seamless at their opposite edges. No transitions between different cells: changes of surface occur precisely on the 4x4 square boundaries. Detailed but sufficiently calm for game characters to read above them.
+View: perfectly topdown orthographic flat ground. Style: authentic polished SNES JRPG pixel art, hard square pixel edges, no antialiasing, no photography, no vectors, no 3D perspective, no smooth digital painting. Color: rich jewel tones with coherent warm early-evening light.
+Constraints: EXACT 4x4 atlas, 16 surfaces, opaque full image, no objects or trees or buildings, no text, no numerals, no labels, no frames, no borders, no watermarks. Beautiful intricate surface detail, never plain CSS-looking boxes.

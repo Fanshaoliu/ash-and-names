@@ -1,0 +1,8 @@
+{
+  "name": "ash-and-names",
+  "version": "2.0.0",
+  "private": true,
+  "description": "灰烬之名：前魔法世界中的此在、技术与人工智能",
+  "scripts": {"test":"node tests/engine-test.cjs", "books":"node scripts/export-books.cjs", "start":"python3 -m http.server 8765"},
+  "engines": {"node": ">=18"}
+}
