@@ -12,7 +12,7 @@ const STORY = {
   id:'bell', name:'没有影子的早晨', place:'灯隐村', subtitle:'第一章 · 灯火记得你', theme:'village', time:'破晓 05:17',
   summary:'村里的晨钟多响了一声。所有人都说一直如此，只有卖面的阿婆给你盛了两碗面。',
   objective:'查明多出来的第十三声钟，找到回声铃，驱散桥上的灰兽。',
-  npcs:['守钟人 · 竹翁','面铺阿婆 · 绫','送信少年 · 小满'],
+  npcs:['守钟人 · 竹翁','面铺阿婆 · 绫婆','送信少年 · 小满'],
   relic:{name:'回声铃',desc:'没有铃舌，却会在谎言旁边发出声音。全队攻击 +3。',stat:'atk',value:3},
   enemy:['灰尾狐','失字灯灵'], boss:'无面守桥人', weakness:'echo',
   intro:[
