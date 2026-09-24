@@ -1,0 +1,5 @@
+Fusion Pixel Font by TakWolf
+SIL Open Font License 1.1
+https://github.com/TakWolf/fusion-pixel-font
+Release 2026.09.01
+https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.09.01/fusion-pixel-font-12px-proportional-otf.woff2-v2026.09.01.zip

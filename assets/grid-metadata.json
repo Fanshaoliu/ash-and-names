@@ -1,0 +1,1679 @@
+{
+  "generator": "built-in image_gen",
+  "cover": {
+    "path": "cover-v3.png",
+    "width": 1672,
+    "height": 941
+  },
+  "walk": {
+    "path": "walk-v3.png",
+    "width": 1774,
+    "height": 887,
+    "columns": 12,
+    "rows": 4,
+    "nominalCellWidth": 147.83333333333334,
+    "nominalCellHeight": 221.75,
+    "alphaZeroPixels": 822370,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "frames": [
+      {
+        "row": 0,
+        "column": 0,
+        "cell": [
+          0,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          34,
+          18,
+          89,
+          194
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 1,
+        "cell": [
+          148,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          181,
+          18,
+          89,
+          194
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 2,
+        "cell": [
+          296,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          330,
+          18,
+          88,
+          194
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 3,
+        "cell": [
+          444,
+          0,
+          147,
+          222
+        ],
+        "opaqueBounds": [
+          477,
+          18,
+          88,
+          194
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 4,
+        "cell": [
+          591,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          627,
+          25,
+          87,
+          185
+        ],
+        "feetY": 210
+      },
+      {
+        "row": 0,
+        "column": 5,
+        "cell": [
+          739,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          772,
+          25,
+          86,
+          184
+        ],
+        "feetY": 209
+      },
+      {
+        "row": 0,
+        "column": 6,
+        "cell": [
+          887,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          918,
+          26,
+          86,
+          184
+        ],
+        "feetY": 210
+      },
+      {
+        "row": 0,
+        "column": 7,
+        "cell": [
+          1035,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1065,
+          25,
+          86,
+          184
+        ],
+        "feetY": 209
+      },
+      {
+        "row": 0,
+        "column": 8,
+        "cell": [
+          1183,
+          0,
+          147,
+          222
+        ],
+        "opaqueBounds": [
+          1211,
+          17,
+          88,
+          195
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 9,
+        "cell": [
+          1330,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1360,
+          17,
+          87,
+          195
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 10,
+        "cell": [
+          1478,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1507,
+          17,
+          88,
+          195
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 0,
+        "column": 11,
+        "cell": [
+          1626,
+          0,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1655,
+          17,
+          87,
+          195
+        ],
+        "feetY": 212
+      },
+      {
+        "row": 1,
+        "column": 0,
+        "cell": [
+          0,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          14,
+          241,
+          130,
+          194
+        ],
+        "feetY": 435
+      },
+      {
+        "row": 1,
+        "column": 1,
+        "cell": [
+          148,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          161,
+          241,
+          129,
+          193
+        ],
+        "feetY": 434
+      },
+      {
+        "row": 1,
+        "column": 2,
+        "cell": [
+          296,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          310,
+          241,
+          129,
+          194
+        ],
+        "feetY": 435
+      },
+      {
+        "row": 1,
+        "column": 3,
+        "cell": [
+          444,
+          222,
+          147,
+          222
+        ],
+        "opaqueBounds": [
+          457,
+          241,
+          130,
+          193
+        ],
+        "feetY": 434
+      },
+      {
+        "row": 1,
+        "column": 4,
+        "cell": [
+          591,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          624,
+          241,
+          110,
+          191
+        ],
+        "feetY": 432
+      },
+      {
+        "row": 1,
+        "column": 5,
+        "cell": [
+          739,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          769,
+          241,
+          109,
+          191
+        ],
+        "feetY": 432
+      },
+      {
+        "row": 1,
+        "column": 6,
+        "cell": [
+          887,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          915,
+          241,
+          108,
+          191
+        ],
+        "feetY": 432
+      },
+      {
+        "row": 1,
+        "column": 7,
+        "cell": [
+          1035,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1061,
+          241,
+          107,
+          191
+        ],
+        "feetY": 432
+      },
+      {
+        "row": 1,
+        "column": 8,
+        "cell": [
+          1183,
+          222,
+          147,
+          222
+        ],
+        "opaqueBounds": [
+          1192,
+          241,
+          127,
+          194
+        ],
+        "feetY": 435
+      },
+      {
+        "row": 1,
+        "column": 9,
+        "cell": [
+          1330,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1341,
+          241,
+          125,
+          194
+        ],
+        "feetY": 435
+      },
+      {
+        "row": 1,
+        "column": 10,
+        "cell": [
+          1478,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1489,
+          241,
+          125,
+          194
+        ],
+        "feetY": 435
+      },
+      {
+        "row": 1,
+        "column": 11,
+        "cell": [
+          1626,
+          222,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1636,
+          241,
+          125,
+          193
+        ],
+        "feetY": 434
+      },
+      {
+        "row": 2,
+        "column": 0,
+        "cell": [
+          0,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          34,
+          461,
+          89,
+          193
+        ],
+        "feetY": 654
+      },
+      {
+        "row": 2,
+        "column": 1,
+        "cell": [
+          148,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          181,
+          461,
+          89,
+          193
+        ],
+        "feetY": 654
+      },
+      {
+        "row": 2,
+        "column": 2,
+        "cell": [
+          296,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          330,
+          461,
+          88,
+          193
+        ],
+        "feetY": 654
+      },
+      {
+        "row": 2,
+        "column": 3,
+        "cell": [
+          444,
+          444,
+          147,
+          221
+        ],
+        "opaqueBounds": [
+          477,
+          461,
+          88,
+          193
+        ],
+        "feetY": 654
+      },
+      {
+        "row": 2,
+        "column": 4,
+        "cell": [
+          591,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          625,
+          461,
+          90,
+          192
+        ],
+        "feetY": 653
+      },
+      {
+        "row": 2,
+        "column": 5,
+        "cell": [
+          739,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          770,
+          461,
+          89,
+          192
+        ],
+        "feetY": 653
+      },
+      {
+        "row": 2,
+        "column": 6,
+        "cell": [
+          887,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          916,
+          461,
+          87,
+          192
+        ],
+        "feetY": 653
+      },
+      {
+        "row": 2,
+        "column": 7,
+        "cell": [
+          1035,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          1063,
+          462,
+          87,
+          191
+        ],
+        "feetY": 653
+      },
+      {
+        "row": 2,
+        "column": 8,
+        "cell": [
+          1183,
+          444,
+          147,
+          221
+        ],
+        "opaqueBounds": [
+          1212,
+          461,
+          86,
+          194
+        ],
+        "feetY": 655
+      },
+      {
+        "row": 2,
+        "column": 9,
+        "cell": [
+          1330,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          1360,
+          461,
+          85,
+          193
+        ],
+        "feetY": 654
+      },
+      {
+        "row": 2,
+        "column": 10,
+        "cell": [
+          1478,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          1509,
+          461,
+          85,
+          194
+        ],
+        "feetY": 655
+      },
+      {
+        "row": 2,
+        "column": 11,
+        "cell": [
+          1626,
+          444,
+          148,
+          221
+        ],
+        "opaqueBounds": [
+          1655,
+          461,
+          86,
+          193
+        ],
+        "feetY": 654
+      },
+      {
+        "row": 3,
+        "column": 0,
+        "cell": [
+          0,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          31,
+          669,
+          95,
+          201
+        ],
+        "feetY": 870
+      },
+      {
+        "row": 3,
+        "column": 1,
+        "cell": [
+          148,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          177,
+          668,
+          95,
+          202
+        ],
+        "feetY": 870
+      },
+      {
+        "row": 3,
+        "column": 2,
+        "cell": [
+          296,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          326,
+          667,
+          95,
+          203
+        ],
+        "feetY": 870
+      },
+      {
+        "row": 3,
+        "column": 3,
+        "cell": [
+          444,
+          665,
+          147,
+          222
+        ],
+        "opaqueBounds": [
+          473,
+          668,
+          95,
+          201
+        ],
+        "feetY": 869
+      },
+      {
+        "row": 3,
+        "column": 4,
+        "cell": [
+          591,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          622,
+          672,
+          91,
+          195
+        ],
+        "feetY": 867
+      },
+      {
+        "row": 3,
+        "column": 5,
+        "cell": [
+          739,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          766,
+          672,
+          91,
+          195
+        ],
+        "feetY": 867
+      },
+      {
+        "row": 3,
+        "column": 6,
+        "cell": [
+          887,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          913,
+          672,
+          89,
+          195
+        ],
+        "feetY": 867
+      },
+      {
+        "row": 3,
+        "column": 7,
+        "cell": [
+          1035,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1060,
+          672,
+          87,
+          194
+        ],
+        "feetY": 866
+      },
+      {
+        "row": 3,
+        "column": 8,
+        "cell": [
+          1183,
+          665,
+          147,
+          222
+        ],
+        "opaqueBounds": [
+          1208,
+          667,
+          93,
+          202
+        ],
+        "feetY": 869
+      },
+      {
+        "row": 3,
+        "column": 9,
+        "cell": [
+          1330,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1355,
+          667,
+          94,
+          202
+        ],
+        "feetY": 869
+      },
+      {
+        "row": 3,
+        "column": 10,
+        "cell": [
+          1478,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1504,
+          667,
+          94,
+          203
+        ],
+        "feetY": 870
+      },
+      {
+        "row": 3,
+        "column": 11,
+        "cell": [
+          1626,
+          665,
+          148,
+          222
+        ],
+        "opaqueBounds": [
+          1651,
+          667,
+          93,
+          202
+        ],
+        "feetY": 869
+      }
+    ],
+    "directionGroups": {
+      "down": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "left": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "up": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "right": "mirror left"
+    },
+    "characters": [
+      "courier",
+      "auburn twin tails",
+      "teal bob",
+      "violet cardigan"
+    ],
+    "integrationNote": "Use per-frame opaqueBounds and feetY to align feet. The actual image is 1774x887, so nominal cells are fractional. Draw at a uniform scale and anchor bottom at feetY to eliminate 1-4 px source baseline variation."
+  },
+  "world": {
+    "path": "world-v3.png",
+    "width": 1536,
+    "height": 1024,
+    "columns": 6,
+    "rows": 4,
+    "nominalCellWidth": 256.0,
+    "nominalCellHeight": 256.0,
+    "alphaZeroPixels": 832004,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "frames": [
+      {
+        "row": 0,
+        "column": 0,
+        "cell": [
+          0,
+          0,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          31,
+          42,
+          202,
+          208
+        ],
+        "feetY": 250
+      },
+      {
+        "row": 0,
+        "column": 1,
+        "cell": [
+          256,
+          0,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          310,
+          11,
+          157,
+          245
+        ],
+        "feetY": 256
+      },
+      {
+        "row": 0,
+        "column": 2,
+        "cell": [
+          512,
+          0,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          537,
+          131,
+          208,
+          113
+        ],
+        "feetY": 244
+      },
+      {
+        "row": 0,
+        "column": 3,
+        "cell": [
+          768,
+          0,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          795,
+          131,
+          206,
+          122
+        ],
+        "feetY": 253
+      },
+      {
+        "row": 0,
+        "column": 4,
+        "cell": [
+          1024,
+          0,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1056,
+          125,
+          192,
+          122
+        ],
+        "feetY": 247
+      },
+      {
+        "row": 0,
+        "column": 5,
+        "cell": [
+          1280,
+          0,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1310,
+          125,
+          201,
+          114
+        ],
+        "feetY": 239
+      },
+      {
+        "row": 1,
+        "column": 0,
+        "cell": [
+          0,
+          256,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          26,
+          264,
+          206,
+          245
+        ],
+        "feetY": 509
+      },
+      {
+        "row": 1,
+        "column": 1,
+        "cell": [
+          256,
+          256,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          267,
+          271,
+          223,
+          239
+        ],
+        "feetY": 510
+      },
+      {
+        "row": 1,
+        "column": 2,
+        "cell": [
+          512,
+          256,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          517,
+          264,
+          244,
+          245
+        ],
+        "feetY": 509
+      },
+      {
+        "row": 1,
+        "column": 3,
+        "cell": [
+          768,
+          256,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          792,
+          345,
+          232,
+          152
+        ],
+        "feetY": 497
+      },
+      {
+        "row": 1,
+        "column": 4,
+        "cell": [
+          1024,
+          256,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1024,
+          309,
+          213,
+          200
+        ],
+        "feetY": 509
+      },
+      {
+        "row": 1,
+        "column": 5,
+        "cell": [
+          1280,
+          256,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1310,
+          274,
+          201,
+          231
+        ],
+        "feetY": 505
+      },
+      {
+        "row": 2,
+        "column": 0,
+        "cell": [
+          0,
+          512,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          23,
+          540,
+          216,
+          228
+        ],
+        "feetY": 768
+      },
+      {
+        "row": 2,
+        "column": 1,
+        "cell": [
+          256,
+          512,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          302,
+          530,
+          175,
+          206
+        ],
+        "feetY": 736
+      },
+      {
+        "row": 2,
+        "column": 2,
+        "cell": [
+          512,
+          512,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          552,
+          538,
+          179,
+          230
+        ],
+        "feetY": 768
+      },
+      {
+        "row": 2,
+        "column": 3,
+        "cell": [
+          768,
+          512,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          849,
+          546,
+          96,
+          189
+        ],
+        "feetY": 735
+      },
+      {
+        "row": 2,
+        "column": 4,
+        "cell": [
+          1024,
+          512,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1046,
+          537,
+          215,
+          231
+        ],
+        "feetY": 768
+      },
+      {
+        "row": 2,
+        "column": 5,
+        "cell": [
+          1280,
+          512,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1357,
+          528,
+          107,
+          215
+        ],
+        "feetY": 743
+      },
+      {
+        "row": 3,
+        "column": 0,
+        "cell": [
+          0,
+          768,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          65,
+          768,
+          130,
+          218
+        ],
+        "feetY": 986
+      },
+      {
+        "row": 3,
+        "column": 1,
+        "cell": [
+          256,
+          768,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          288,
+          769,
+          214,
+          225
+        ],
+        "feetY": 994
+      },
+      {
+        "row": 3,
+        "column": 2,
+        "cell": [
+          512,
+          768,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          571,
+          768,
+          141,
+          226
+        ],
+        "feetY": 994
+      },
+      {
+        "row": 3,
+        "column": 3,
+        "cell": [
+          768,
+          768,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          800,
+          784,
+          199,
+          206
+        ],
+        "feetY": 990
+      },
+      {
+        "row": 3,
+        "column": 4,
+        "cell": [
+          1024,
+          768,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1126,
+          768,
+          55,
+          223
+        ],
+        "feetY": 991
+      },
+      {
+        "row": 3,
+        "column": 5,
+        "cell": [
+          1280,
+          768,
+          256,
+          256
+        ],
+        "opaqueBounds": [
+          1333,
+          769,
+          156,
+          214
+        ],
+        "feetY": 983
+      }
+    ],
+    "objectRects": [
+      {
+        "index": 0,
+        "name": "deciduousTree",
+        "opaqueBounds": [
+          31,
+          42,
+          202,
+          208
+        ],
+        "sourceRect": [
+          29,
+          40,
+          206,
+          212
+        ]
+      },
+      {
+        "index": 1,
+        "name": "pine",
+        "opaqueBounds": [
+          310,
+          11,
+          157,
+          245
+        ],
+        "sourceRect": [
+          308,
+          9,
+          161,
+          249
+        ]
+      },
+      {
+        "index": 2,
+        "name": "hedge",
+        "opaqueBounds": [
+          537,
+          131,
+          208,
+          113
+        ],
+        "sourceRect": [
+          535,
+          129,
+          212,
+          117
+        ]
+      },
+      {
+        "index": 3,
+        "name": "flowerBed",
+        "opaqueBounds": [
+          795,
+          131,
+          206,
+          122
+        ],
+        "sourceRect": [
+          793,
+          129,
+          210,
+          126
+        ]
+      },
+      {
+        "index": 4,
+        "name": "rocks",
+        "opaqueBounds": [
+          1056,
+          125,
+          192,
+          122
+        ],
+        "sourceRect": [
+          1054,
+          123,
+          196,
+          126
+        ]
+      },
+      {
+        "index": 5,
+        "name": "fence",
+        "opaqueBounds": [
+          1310,
+          125,
+          201,
+          114
+        ],
+        "sourceRect": [
+          1308,
+          123,
+          205,
+          118
+        ]
+      },
+      {
+        "index": 6,
+        "name": "house",
+        "opaqueBounds": [
+          26,
+          264,
+          206,
+          245
+        ],
+        "sourceRect": [
+          24,
+          262,
+          210,
+          249
+        ]
+      },
+      {
+        "index": 7,
+        "name": "teaShop",
+        "opaqueBounds": [
+          267,
+          271,
+          223,
+          239
+        ],
+        "sourceRect": [
+          265,
+          269,
+          227,
+          243
+        ]
+      },
+      {
+        "index": 8,
+        "name": "clockCastle",
+        "opaqueBounds": [
+          517,
+          264,
+          244,
+          245
+        ],
+        "sourceRect": [
+          515,
+          262,
+          248,
+          249
+        ]
+      },
+      {
+        "index": 9,
+        "name": "bridge",
+        "opaqueBounds": [
+          792,
+          345,
+          238,
+          152
+        ],
+        "sourceRect": [
+          790,
+          343,
+          242,
+          156
+        ]
+      },
+      {
+        "index": 10,
+        "name": "well",
+        "opaqueBounds": [
+          1075,
+          309,
+          162,
+          200
+        ],
+        "sourceRect": [
+          1073,
+          307,
+          166,
+          204
+        ]
+      },
+      {
+        "index": 11,
+        "name": "fountain",
+        "opaqueBounds": [
+          1310,
+          274,
+          201,
+          231
+        ],
+        "sourceRect": [
+          1308,
+          272,
+          205,
+          235
+        ]
+      },
+      {
+        "index": 12,
+        "name": "desk",
+        "opaqueBounds": [
+          23,
+          540,
+          216,
+          193
+        ],
+        "sourceRect": [
+          21,
+          538,
+          220,
+          197
+        ]
+      },
+      {
+        "index": 13,
+        "name": "bookshelf",
+        "opaqueBounds": [
+          302,
+          530,
+          175,
+          206
+        ],
+        "sourceRect": [
+          300,
+          528,
+          179,
+          210
+        ]
+      },
+      {
+        "index": 14,
+        "name": "bed",
+        "opaqueBounds": [
+          552,
+          538,
+          179,
+          207
+        ],
+        "sourceRect": [
+          550,
+          536,
+          183,
+          211
+        ]
+      },
+      {
+        "index": 15,
+        "name": "chair",
+        "opaqueBounds": [
+          849,
+          546,
+          96,
+          189
+        ],
+        "sourceRect": [
+          847,
+          544,
+          100,
+          193
+        ]
+      },
+      {
+        "index": 16,
+        "name": "teaTable",
+        "opaqueBounds": [
+          1046,
+          537,
+          215,
+          206
+        ],
+        "sourceRect": [
+          1044,
+          535,
+          219,
+          210
+        ]
+      },
+      {
+        "index": 17,
+        "name": "filingCabinet",
+        "opaqueBounds": [
+          1357,
+          528,
+          107,
+          215
+        ],
+        "sourceRect": [
+          1355,
+          526,
+          111,
+          219
+        ]
+      },
+      {
+        "index": 18,
+        "name": "terminal",
+        "opaqueBounds": [
+          65,
+          767,
+          130,
+          219
+        ],
+        "sourceRect": [
+          63,
+          765,
+          134,
+          223
+        ]
+      },
+      {
+        "index": 19,
+        "name": "stairsDown",
+        "opaqueBounds": [
+          288,
+          769,
+          214,
+          225
+        ],
+        "sourceRect": [
+          286,
+          767,
+          218,
+          229
+        ]
+      },
+      {
+        "index": 20,
+        "name": "openDoor",
+        "opaqueBounds": [
+          571,
+          767,
+          141,
+          227
+        ],
+        "sourceRect": [
+          569,
+          765,
+          145,
+          231
+        ]
+      },
+      {
+        "index": 21,
+        "name": "crates",
+        "opaqueBounds": [
+          800,
+          784,
+          199,
+          206
+        ],
+        "sourceRect": [
+          798,
+          782,
+          203,
+          210
+        ]
+      },
+      {
+        "index": 22,
+        "name": "lamp",
+        "opaqueBounds": [
+          1126,
+          745,
+          55,
+          246
+        ],
+        "sourceRect": [
+          1124,
+          743,
+          59,
+          250
+        ]
+      },
+      {
+        "index": 23,
+        "name": "maintenancePump",
+        "opaqueBounds": [
+          1333,
+          769,
+          156,
+          214
+        ],
+        "sourceRect": [
+          1331,
+          767,
+          160,
+          218
+        ]
+      }
+    ],
+    "integrationNote": "Use objectRects sourceRect instead of equal grid cells: lamp crosses the nominal row boundary by 23 px, and bridge extends 6 px across a nominal column boundary. Rectangles were measured from actual alpha connected components."
+  }
+}
